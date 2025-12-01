@@ -26,6 +26,7 @@ const routes = [
   { path: '/pop-art', component: () => import('../components/styles/PopArt.vue') },
   { path: '/neubrutalism', component: () => import('../components/styles/Neubrutalism.vue') },
   { path: '/glassmorphism', component: () => import('../components/styles/Glassmorphism.vue') },
+  { path: '/paper-cut', component: () => import('../components/styles/PaperCut.vue') },
 ]
 
 const router = createRouter({

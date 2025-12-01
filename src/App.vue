@@ -31,7 +31,6 @@ import { computed, ref } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 const navigationItems = [
   { title: '首頁', icon: '', route: '/' },
-  { title: '關於', icon: '', route: '/about' },
   { title: 'Y2K', icon: '', route: '/y2k' },
   { title: 'Bento Box', icon: '', route: '/bento' },
   { title: 'Pixel Art', icon: '', route: '/pixel' },
@@ -53,7 +52,8 @@ const navigationItems = [
   { title: 'Gothic', icon: '', route: '/gothic' },
   { title: 'Pop Art', icon: '', route: '/pop-art' },
   { title: 'Neubrutalism', icon: '', route: '/neubrutalism' },
-  { title: 'Glassmorphism', icon: '', route: '/glassmorphism' }
+  { title: 'Glassmorphism', icon: '', route: '/glassmorphism' },
+  { title: 'Paper Cut', icon: '', route: '/paper-cut' }
 ];
 
 </script>
