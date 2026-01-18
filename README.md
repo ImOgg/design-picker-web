@@ -3,7 +3,7 @@
 一個展示多種現代網頁設計風格的 Vue 3 應用程式。
 A Vue 3 application showcasing various modern web design styles.
 
-[線上演示 Demo](https://style-picker-two.vercel.app/) | [參考資料 Reference](https://design-picker.luka.tw/zh-TW)
+[參考資料 Reference](https://design-picker.luka.tw/zh-TW)
 
 ## ✨ 特色 Features
 
